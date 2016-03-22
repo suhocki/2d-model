@@ -1,0 +1,8 @@
+﻿  lab2noskova.cpp
+c:\users\z\documents\visual studio 2015\projects\lab2noskova\lab2noskova\lab2noskova.cpp(336): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\z\documents\visual studio 2015\projects\lab2noskova\lab2noskova\lab2noskova.cpp(339): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+c:\users\z\documents\visual studio 2015\projects\lab2noskova\lab2noskova\lab2noskova.cpp(340): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+c:\users\z\documents\visual studio 2015\projects\lab2noskova\lab2noskova\lab2noskova.cpp(363): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\z\documents\visual studio 2015\projects\lab2noskova\lab2noskova\lab2noskova.cpp(366): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\z\documents\visual studio 2015\projects\lab2noskova\lab2noskova\lab2noskova.cpp(367): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+  lab2noskova.vcxproj -> C:\Users\z\Documents\Visual Studio 2015\Projects\lab2noskova\Debug\lab2noskova.exe
